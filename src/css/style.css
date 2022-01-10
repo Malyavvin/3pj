@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     max-height: 100%;
   }
   .title__img {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/title/title_img_b.png");
+    background-image: url("src/img/title/title_img_b.png");
     grid-area: a;
     background-size: cover;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     grid-area: b;
   }
   .our__services {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/our services/services_bg.png");
+    background-image: url("src/img/our services/services_bg.png");
     color: #ffffff;
     grid-area: c;
   }
@@ -113,7 +113,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     margin-bottom: 0;
   }
   .starting {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/starting/start_bg.png");
+    background-image: url("src/img/starting/start_bg.png");
     grid-area: d;
   }
   .starting a {
@@ -121,12 +121,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     color: #000000;
   }
   .dummy {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/dummy/dummy_bg.png");
+    background-image: url("src/img/dummy/dummy_bg.png");
     color: #ffffff;
     grid-area: e;
   }
   .designer {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/designer/designer_bg.png");
+    background-image: url("src/img/designer/designer_bg.png");
     color: #ffffff;
     display: flex;
     flex-direction: column;
@@ -137,7 +137,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     margin-bottom: 0;
   }
   .say__hello {
-    background-image: url("C:/Users/1/Desktop/3pj/src/img/say_hello/hello_bg.png");
+    background-image: url("src/img/say_hello/hello_bg.png");
     color: #ffffff;
     display: flex;
     flex-direction: column;
@@ -178,7 +178,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     margin: 0px 5px 0px 0px;
   }
   .logo {
-    background-image: url("C:\Users\1\Desktop\Третья работа\src\img\designer\logo.png");
+    background-image: url("src\img\designer\logo.png");
     background-repeat: no-repeat;
     display: block;
     height: 90px;
