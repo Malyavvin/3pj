@@ -182,7 +182,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     background-repeat: no-repeat;
     display: block;
     height: 90px;
-    margin-bottom: 25px;
+    margin: 20px 0px;
     width: 90px;
   }
     .form textarea {
