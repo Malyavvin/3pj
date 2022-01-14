@@ -181,9 +181,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
     background-image: url("/3pj/src/img/designer/logo.png");
     background-repeat: no-repeat;
     display: block;
-    height: 90px;
+    max-height: 90px;
     margin: 20px 0px;
-    width: 90px;
+    max-width: 90px;
   }
     .form textarea {
     min-height: 125px;
@@ -253,8 +253,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit;}
       }
       .logo {
       background-size: cover;
-      height: 70px;
-      margin: 0 auto 25px;
-      width: 70px;
+      max-height: 70px;
+      max-width: 70px;
       }
 }
