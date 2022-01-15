@@ -19,5 +19,4 @@
   $('#menu-toggle').on('change', function() {
   $('body').css('overflow', $(this).prop('checked') === true ? 'hidden' : '');
 });
-  
 })();

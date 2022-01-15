@@ -102,6 +102,9 @@ input#menu-toggle {
   #menu-toggle{
       opacity: 0;
   }
+    #menu-toggle:focus {
+      display: none;
+  }
 
 input::-webkit-input-placeholder       {opacity: 1; transition: opacity 0.3s ease;}
 input::-moz-placeholder                {opacity: 1; transition: opacity 0.3s ease;}
